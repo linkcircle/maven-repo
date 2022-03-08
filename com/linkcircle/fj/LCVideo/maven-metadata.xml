@@ -3,10 +3,11 @@
   <groupId>com.linkcircle.fj</groupId>
   <artifactId>LCVideo</artifactId>
   <versioning>
-    <release>1.0.gz</release>
+    <release>1.1.gz</release>
     <versions>
       <version>1.0.gz</version>
+      <version>1.1.gz</version>
     </versions>
-    <lastUpdated>20220207083216</lastUpdated>
+    <lastUpdated>20220308010534</lastUpdated>
   </versioning>
 </metadata>
