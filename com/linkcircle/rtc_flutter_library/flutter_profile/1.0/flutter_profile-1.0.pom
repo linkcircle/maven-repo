@@ -52,25 +52,25 @@
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>flutter_embedding_profile</artifactId>
-      <version>1.0.0-c5caf749fe75db788dba8def502c46c094435605</version>
+      <version>1.0.0-57d3bac3dd5cb5b0e464ab70e7bc8a0d8cf083ab</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>armeabi_v7a_profile</artifactId>
-      <version>1.0.0-c5caf749fe75db788dba8def502c46c094435605</version>
+      <version>1.0.0-57d3bac3dd5cb5b0e464ab70e7bc8a0d8cf083ab</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>arm64_v8a_profile</artifactId>
-      <version>1.0.0-c5caf749fe75db788dba8def502c46c094435605</version>
+      <version>1.0.0-57d3bac3dd5cb5b0e464ab70e7bc8a0d8cf083ab</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>x86_64_profile</artifactId>
-      <version>1.0.0-c5caf749fe75db788dba8def502c46c094435605</version>
+      <version>1.0.0-57d3bac3dd5cb5b0e464ab70e7bc8a0d8cf083ab</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
