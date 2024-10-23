@@ -3,7 +3,8 @@
   <groupId>com.linkcircle.fj</groupId>
   <artifactId>agorasignal</artifactId>
   <versioning>
-    <release>1.4.4</release>
+    <latest>1.4.5</latest>
+    <release>1.4.5</release>
     <versions>
       <version>1.2</version>
       <version>1.3</version>
@@ -12,7 +13,8 @@
       <version>1.4.2</version>
       <version>1.4.3</version>
       <version>1.4.4</version>
+      <version>1.4.5</version>
     </versions>
-    <lastUpdated>20240612074926</lastUpdated>
+    <lastUpdated>20241023003905</lastUpdated>
   </versioning>
 </metadata>
