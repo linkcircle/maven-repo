@@ -26,11 +26,11 @@
         {
           "name": "agorasignal-1.4.5.3.aar",
           "url": "agorasignal-1.4.5.3.aar",
-          "size": 16094432,
-          "sha512": "4e84db08387a77a4784e9a3ffb7990863c6d0089f3a713a3973eed62462d9689f013daf0dddb64d324c8f71ad54aca3ea218176382b414dd88dd0ebf09b09bda",
-          "sha256": "a3ed017a70ac906757b639a0e9a338184b0692db9c1674b7ebd5af2bdcf651de",
-          "sha1": "3ec943db2f6dd14e458495fa46c20b2c3cd4dba2",
-          "md5": "fd078fb94746322267a7d61ec1450270"
+          "size": 16094428,
+          "sha512": "7f5b441e65b2329d560b56de02898065e313034a855d266954e6cf9b6426cb6c5b5b3f68cb6fe811993d8e58a23c0573542f93a0d0dd46fe4f09a5bddf037462",
+          "sha256": "0c6cd84a02145193da504b491bc580e5c57b8a460474c552319dfe9c929cc353",
+          "sha1": "d91c0805cd455efe11399cf9fc58ba6f57138e6c",
+          "md5": "3744304388911975a98bc8e1472ee5f7"
         }
       ]
     },
@@ -46,11 +46,11 @@
         {
           "name": "agorasignal-1.4.5.3.aar",
           "url": "agorasignal-1.4.5.3.aar",
-          "size": 16094432,
-          "sha512": "4e84db08387a77a4784e9a3ffb7990863c6d0089f3a713a3973eed62462d9689f013daf0dddb64d324c8f71ad54aca3ea218176382b414dd88dd0ebf09b09bda",
-          "sha256": "a3ed017a70ac906757b639a0e9a338184b0692db9c1674b7ebd5af2bdcf651de",
-          "sha1": "3ec943db2f6dd14e458495fa46c20b2c3cd4dba2",
-          "md5": "fd078fb94746322267a7d61ec1450270"
+          "size": 16094428,
+          "sha512": "7f5b441e65b2329d560b56de02898065e313034a855d266954e6cf9b6426cb6c5b5b3f68cb6fe811993d8e58a23c0573542f93a0d0dd46fe4f09a5bddf037462",
+          "sha256": "0c6cd84a02145193da504b491bc580e5c57b8a460474c552319dfe9c929cc353",
+          "sha1": "d91c0805cd455efe11399cf9fc58ba6f57138e6c",
+          "md5": "3744304388911975a98bc8e1472ee5f7"
         }
       ]
     }
