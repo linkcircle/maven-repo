@@ -1,0 +1,58 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.linkcircle.fj",
+    "module": "agorasignal",
+    "version": "1.4.5.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "agorasignal-1.4.5.4.aar",
+          "url": "agorasignal-1.4.5.4.aar",
+          "size": 16094428,
+          "sha512": "53d630e5b2cd7d8b59021827db8781dcccfe340ca79f3413a023559a6a87838d2dbad6e7e5f147d7da274a3ae7c5618da3dfddc2e680d77a8eabd083a7da6809",
+          "sha256": "de7282765eed609171cba1f01233c9c8d1a24edd467599867cd37551d2bab00c",
+          "sha1": "ae59bc1f275c7cbeec021cfd723c03f527619f12",
+          "md5": "3aa386c1d9937480e020172644632904"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "agorasignal-1.4.5.4.aar",
+          "url": "agorasignal-1.4.5.4.aar",
+          "size": 16094428,
+          "sha512": "53d630e5b2cd7d8b59021827db8781dcccfe340ca79f3413a023559a6a87838d2dbad6e7e5f147d7da274a3ae7c5618da3dfddc2e680d77a8eabd083a7da6809",
+          "sha256": "de7282765eed609171cba1f01233c9c8d1a24edd467599867cd37551d2bab00c",
+          "sha1": "ae59bc1f275c7cbeec021cfd723c03f527619f12",
+          "md5": "3aa386c1d9937480e020172644632904"
+        }
+      ]
+    }
+  ]
+}
